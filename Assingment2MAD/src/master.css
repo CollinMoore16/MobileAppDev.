@@ -1,0 +1,54 @@
+p1 {
+    font-size: 25px;
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+
+p2 {
+    font-size: 25px;
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+
+p3 {
+    font-size: 25px;
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+
+p4 {
+    font-size: 25px;
+    font-family: "Copperplate", fantasy;
+}
+
+h1 {
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+h2 {
+    font-size: 30px;
+    border: 4px solid pink;
+    border-radius: 50px;
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+
+h3 {
+    font-size: 30px;
+    border: 4px solid pink;
+    border-radius: 50px;
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+
+h4 {
+    font-size: 30px;
+    border: 4px solid pink;
+    border-radius: 50px;
+    font-family: "Copperplate", fantasy;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
